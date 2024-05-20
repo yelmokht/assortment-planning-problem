@@ -1,2 +1,2 @@
 # assortment-planning-problem
-Implementation of algorithms for the assortment planning problem (AP)
+Implementation of models and algorithms for the assortment planning problem (AP)
